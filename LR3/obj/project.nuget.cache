@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "OxAYgksvQCug94ZZVNLSvIq55O7kEB4d1JiufuI4mQqsHwEhkAb+KYXVcasTmSgp/fetMQxt1DrVbv0a3PdgZQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MSI\\Documents\\git-2024\\LR3\\LR3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MSI\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.2\\microsoft.extensions.dependencyinjection.9.0.2.nupkg.sha512",
+    "C:\\Users\\MSI\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.2\\microsoft.extensions.dependencyinjection.abstractions.9.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
