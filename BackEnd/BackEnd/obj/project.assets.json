@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MSI\\Desktop\\BackEnd\\BackEnd\\BackEnd.csproj",
+      "projectUniqueName": "C:\\Users\\MSI\\Documents\\git-2024\\BackEnd\\BackEnd\\BackEnd.csproj",
       "projectName": "BackEnd",
-      "projectPath": "C:\\Users\\MSI\\Desktop\\BackEnd\\BackEnd\\BackEnd.csproj",
+      "projectPath": "C:\\Users\\MSI\\Documents\\git-2024\\BackEnd\\BackEnd\\BackEnd.csproj",
       "packagesPath": "C:\\Users\\MSI\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MSI\\Desktop\\BackEnd\\BackEnd\\obj\\",
+      "outputPath": "C:\\Users\\MSI\\Documents\\git-2024\\BackEnd\\BackEnd\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MSI\\AppData\\Roaming\\NuGet\\NuGet.Config",
