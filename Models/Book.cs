@@ -1,4 +1,4 @@
-﻿namespace Lab12
+﻿namespace Lab12.Models
 {
     public class Book
     {

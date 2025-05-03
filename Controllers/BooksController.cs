@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using Lab12;
+using Lab12.Models;
+using Lab12.Data;
 
 namespace LibraryAPI.Controllers
 {
